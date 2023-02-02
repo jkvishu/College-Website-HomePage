@@ -4,7 +4,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -22,25 +21,34 @@ a:hover {
   color: #5faee3;
   text-decoration: none;
 }
-.Rkgit-logo{
-  color:#3498db;
+
+.Rkgit-logo {
+  color: #3498db;
   font-size: 3.0rem;
   font-weight: 900;
+  font-family: 'Merriweather', serif;
 }
-.videsec{
-  position: absolute;
-  z-index: -1;
+
+#videosec {
+  padding-bottom: 0;
 }
-.videoplayer{
+
+.hand-shake {
+  height: 89px;
+  width: 89px;
+}
+
+.videoplayer {
   padding: 0px;
-  width:100vw;
+  width: 100vw;
   position: relative;
-  left:50%;
-  right:50%;
+  left: 50%;
+  right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   margin-bottom: 0;
 }
+
 h1,
 h2,
 h3,
@@ -48,6 +56,10 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+}
+
+.h2-about {
+  padding-bottom: 45px;
 }
 
 /*--------------------------------------------------------------
@@ -439,6 +451,7 @@ h6 {
 @media (max-width: 768px) {
   #hero {
     margin-top: 20px;
+    height: 65vh;
   }
 
   #hero h1 {
@@ -497,7 +510,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 1px;
 }
 
 .section-title h2 {
@@ -560,6 +573,10 @@ section {
 @media (max-width: 768px) {
   .clients img {
     width: 40%;
+  }
+
+  .rect {
+    font-size: 0.8rem;
   }
 }
 
