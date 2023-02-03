@@ -436,10 +436,13 @@ h6 {
 
 @media (max-width: 768px) {
   #hero {
-    margin-top: 20px;
-    height: 90vh;
+    height: 80vh;
   }
 
+  .pt-5{
+    padding-top: 1rem!important;
+  }
+  
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
