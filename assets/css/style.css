@@ -11,3 +11,9 @@ body{font-family:"Open Sans",sans-serif;color:#444}a{color:#222078;text-decorati
 #videosec{
     padding-top: 100px;
 }
+.clg-name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: #1a1a8a;
+    padding-right: 50px;
+}
