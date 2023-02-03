@@ -437,7 +437,7 @@ h6 {
 @media (max-width: 768px) {
   #hero {
     margin-top: 20px;
-    height: 65vh;
+    height: 90vh;
   }
 
   #hero h1 {
@@ -500,7 +500,7 @@ section {
 }
 
 .section-title h2 {
-  font-size: 32px;
+  font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   position: relative;
@@ -571,7 +571,6 @@ section {
     width: 30%;
   }
 }
-
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
