@@ -19,3 +19,13 @@ body{font-family:"Open Sans",sans-serif;color:#444}a{color:#222078;text-decorati
     margin-right: auto;
     display: block;
 }
+.clg-code{
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  color:#1a1a8a;
+  font-weight: 500;
+  margin-right: auto;
+  display: block;
+  margin-top: -15px;
+  text-align: center;
+}
